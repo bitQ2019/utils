@@ -1,0 +1,26 @@
+{
+  "name": "xiuxiu_utils",
+  "version": "0.1.0",
+  "description": "xiuxiu js utils",
+  "main": "utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Menq/utils.git"
+  },
+  "keywords": [
+    "xiuxiu"
+  ],
+  "author": "mq <mengqiang@issuebang.com> (devios.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Menq/utils/issues"
+  },
+  "homepage": "https://github.com/Menq/utils#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
