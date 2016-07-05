@@ -1,6 +1,6 @@
 {
   "name": "xiuxiu_utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "xiuxiu js utils",
   "main": "utils.js",
   "scripts": {
