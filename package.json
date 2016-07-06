@@ -2,7 +2,7 @@
   "name": "xiuxiu_utils",
   "version": "0.1.1",
   "description": "xiuxiu js utils",
-  "main": "utils.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
